@@ -136,3 +136,14 @@ Lista de notícias relacionadas à Inteligência Artificial, utilizando uma estr
 ├── index.html
 └── README.md
 ```
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+
+---
+
+<p align="center">
+Feito com ❤️ durante os estudos da formação Fullstack da Rocketseat.
+</p>
